@@ -26,3 +26,5 @@ THEN I find a concise, descriptive title
  - Updated Title
  - Replaced div elements with semantic html
  - Inserted alt elements for images
+ - Consolidated repetitive css and updated class and selectors
+ - Organized to follow semantic structure
