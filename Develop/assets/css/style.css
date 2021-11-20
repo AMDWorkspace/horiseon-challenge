@@ -1,8 +1,12 @@
+/* APPLIES STYLING TO ALL ELEMENTS OF THE PAGE */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/* STYLING OF ELEMENTS */
 
 .hero {
     height: 800px;
@@ -12,6 +16,8 @@
     background-size: cover;
     background-position: center;
 }
+
+/* HEADER */
 
 .header {
     padding: 20px;
@@ -29,6 +35,8 @@
     color: #d9dcd6;
 }
 
+/* HEADER NAVIGATION */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,6 +53,8 @@
     display: inline-block;
     margin-left: 25px;
 }
+
+/* END OF HEADER NAV */
 
 p {
     font-size: 16px;
@@ -68,6 +78,8 @@ body {
     float: right;
     margin-left: 25px;
 }
+
+/* MAIN */
 
 .benefits {
     margin-right: 20px;
@@ -120,6 +132,10 @@ body {
     font-size: 36px;
 }
 
+/* END OF MAIN */
+
+/* FOOTER */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -130,3 +146,5 @@ body {
 .footer h2 {
     font-size: 20px;
 }
+
+/* END OF FOOTER */
