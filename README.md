@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title
  - CSS file is properly commented
 
 ## Screenshot
-![screenshot](file:///Users/alanmdo/Desktop/UNC-VIRT-BO-FSF-PT-11-2021-U-B/01-HTML-Git-CSS/02-Challenge/Develop/horiseon-challenge/Develop/assets/images/horiseon-screenshot.jpg)
+![screenshot](horiseon-screenshot.jpg)
 
 ## Deployed page
 Page published at: 
