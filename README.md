@@ -31,8 +31,6 @@ THEN I find a concise, descriptive title
  - CSS file is properly commented
 
 ## Screenshot
-865C535D-DC57-4343-B543-9004C64A2AE1.jpeg
-<img src="./assets/images/horiseon-screenshot.jpg" alt="screenshot of horiseon website" />
 ![screenshot](file:///Users/alanmdo/Desktop/UNC-VIRT-BO-FSF-PT-11-2021-U-B/01-HTML-Git-CSS/02-Challenge/Develop/horiseon-challenge/Develop/assets/images/horiseon-screenshot.jpg)
 
 ## Deployed page
