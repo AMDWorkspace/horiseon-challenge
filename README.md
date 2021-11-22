@@ -34,4 +34,4 @@ THEN I find a concise, descriptive title
 ![screenshot](https://github.com/AMDWorkspace/horiseon-challenge/blob/main/horiseon-screenshot.jpg)
 
 ## Deployed page
-Page published at: 
+Page published at: https://amdworkspace.github.io/horiseon-code-refactor-challenge/
